@@ -1,0 +1,1 @@
+# keycloak10-openshift
